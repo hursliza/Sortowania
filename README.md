@@ -1,6 +1,6 @@
 # Sorting algorithms
-Implementation of sorting algorithms and investigation of their time complexity.
-Algorithms included.
+Implementation of sorting algorithms and investigation of their time complexity.  
+#### Algorithms included.
 * Selection Sort
 * Insertion Sort
 * Bubble Sort
@@ -8,5 +8,5 @@ Algorithms included.
 * Merge Sort
 * Bucket Sort
 * Heap Sort
-* Radix Sort
-Raport on the research included.
+* Radix Sort  
+Raport on the research attached.
